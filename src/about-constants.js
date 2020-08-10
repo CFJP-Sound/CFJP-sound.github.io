@@ -1,0 +1,13 @@
+export const ABOUT_CONTENT = [
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac sagittis augue. Nullam eu nunc ipsum. Praesent ac imperdiet lorem, quis volutpat elit. Nullam a facilisis diam. Fusce in laoreet elit. Praesent ut dignissim metus. Nullam non est vel urna rutrum volutpat. Etiam quis ex commodo, pellentesque metus eget, tincidunt mauris. Vivamus eu porta urna. Vestibulum convallis nulla odio, non rutrum ligula consequat non. Maecenas nec risus ornare, tempus metus eu, accumsan turpis. Praesent non eros quis quam porttitor laoreet non id nisi. Aenean ante metus, vulputate vitae egestas sed, dictum id tellus. Quisque luctus dolor velit, non elementum mi porttitor volutpat. Sed tempor ex rhoncus ex fringilla tempor.",
+    "Integer mollis faucibus velit nec aliquam. In hac habitasse platea dictumst. Nulla faucibus libero a auctor hendrerit. Morbi lacinia ligula at est suscipit, a feugiat urna bibendum. Integer ornare vehicula feugiat. Nulla facilisi. Vivamus sit amet risus tincidunt, malesuada velit vel, imperdiet augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;",
+    "Proin tristique, lectus eu dignissim cursus, orci velit pretium nunc, eu placerat ipsum ex ut mi. Vivamus eu feugiat felis, ac tempus mi. Aliquam porta fermentum tincidunt. In at tincidunt arcu. Aliquam quis hendrerit enim, non fermentum dolor. Proin auctor interdum tellus, non convallis mauris ornare fringilla. Fusce orci nulla, feugiat quis imperdiet sed, volutpat vitae ipsum.",
+    "Sed non orci tortor. Praesent vehicula imperdiet enim, in luctus ligula blandit eget. Aenean imperdiet, dolor id suscipit fermentum, sapien purus venenatis quam, et varius massa nunc id diam. Nunc finibus egestas ante, commodo tempor lorem luctus vel. Nunc nunc lorem, imperdiet id risus et, fermentum pretium metus. Aenean suscipit maximus libero, ac porta enim molestie id. Nunc ut consectetur est, eget luctus risus. Praesent sem massa, luctus eget urna eu, laoreet vestibulum leo.",
+    "In molestie elit laoreet eros venenatis blandit. Suspendisse vel lectus at leo congue mollis id eget felis. Etiam elementum, ante ut pulvinar porttitor, nisi elit fermentum nulla, et sollicitudin eros magna ut turpis. Donec et erat ac nulla euismod efficitur. Integer vitae diam magna. Nunc nec turpis luctus, eleifend magna et, luctus magna. Nullam luctus libero ut feugiat rutrum."
+];
+
+export const ABOUT_IMG = "imgs/TheBoysBW.jpg";
+
+
+
+// About content is an array of what you want to be paragraphs on the page. 

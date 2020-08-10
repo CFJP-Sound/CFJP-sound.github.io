@@ -1,0 +1,30 @@
+.single-item-view {
+    margin: 50px;
+}
+
+.display-video {
+    width: 30%;
+    height: 300px;
+    margin: 50px;
+}
+
+.display-img {
+    width: 30%;
+    margin: 50px;
+}
+
+.single-item-view p a {
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.single-item-view a:hover {
+    color: rgba(255, 255, 255, 0.315);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.item-splitter {
+    width: 90%;
+}

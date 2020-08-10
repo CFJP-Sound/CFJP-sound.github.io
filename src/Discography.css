@@ -1,0 +1,48 @@
+.array-view-discography button {
+    padding: 0;
+    border: none;
+    transition-duration: 1s;
+    width: 20%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0);
+    font-family: monospace;
+    font-size: 30px;
+    background: black;
+    border-style: none;
+    cursor: pointer;
+    outline: none;
+}
+
+.array-view-discography button:hover {
+    padding: 0;
+    border: none;
+    width: 20%;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+
+.array-view-discography img {
+    transition-duration: 1s;
+    width: 100%;
+}
+
+.array-view-discography img:hover {
+    opacity: 0.5;
+}
+
+.array-view-discography {
+    margin: 20px;
+}
+
+.single-item-view {
+    text-align: center;
+}
+
+.discography-clear-item {
+    left: 98%;
+    font-size: 15px;
+    text-decoration: none;
+    cursor: pointer;
+    position: fixed;
+}

@@ -1,0 +1,1 @@
+export const NAV_BAR = ["Projects", "Discography", "About"]; // 3. Add new components here like: "ComponentName"

@@ -1,0 +1,15 @@
+.component-container {
+    display: inline-block;
+    /* border: 1px solid blueviolet; */
+    width: 100%;
+}
+
+.banner {
+    margin: 5px;
+    float: right;
+}
+
+.main {
+    /* border: 1px solid green; */
+    font-family: monospace;
+}
