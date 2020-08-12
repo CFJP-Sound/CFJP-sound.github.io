@@ -34,7 +34,9 @@ export class SingleItemView extends React.Component {
                     <div className="content-display">
                         {this.displayContent()}
                         <br />
-                        <p>{this.props.singleItemToShow.description}</p>
+                        <div className="single-item-text-container">
+                            <p>{this.props.singleItemToShow.description}</p>
+                        </div>
                         {this.displayPayWhatYouWant()}
                     </div>
                 </div>

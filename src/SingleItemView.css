@@ -3,9 +3,8 @@
 }
 
 .display-video {
-    width: 30%;
-    height: 300px;
-    margin: 50px;
+    width: 50%;
+    margin: auto;
 }
 
 .display-img {
@@ -27,4 +26,28 @@
 
 .item-splitter {
     width: 90%;
+}
+
+.single-item-text-container {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+
+@media screen and (max-width: 540px) {
+    .single-item-text-container {
+        width: 100%;
+        margin: auto;
+    }
+
+    .display-video {
+        width: 50%;
+        margin: auto;
+    }
+    
+    .display-img {
+        width: 50%;
+        margin: 50px;
+    }
 }

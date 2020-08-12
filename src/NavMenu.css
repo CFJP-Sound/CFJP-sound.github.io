@@ -8,14 +8,14 @@
     cursor: pointer;
     color: rgb(255, 255, 255);
     text-decoration: none;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .selected-nav-item {
     color: rgb(255, 255, 255);
     text-decoration: underline;
     margin: 20px;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .nav-item:hover {

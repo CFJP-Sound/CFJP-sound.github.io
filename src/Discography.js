@@ -18,6 +18,7 @@ export class Discography extends React.Component {
             singleItemToShow: discographyConstants.DISCOGRAPHY_ITEMS[event.currentTarget.id]
         });
         console.log("SHOW SINGLE ITEM PAGE: " + event.currentTarget.id);
+        window.scrollTo(0, 0);
     }
 
     showSingleItem = () => {
@@ -50,7 +51,7 @@ export class Discography extends React.Component {
                 <div className='array-view-discography'>
                     {items.map((item, index) => {
                         return (
-                            <button key={index} id={index} onClick={this.setSingleItem}><img alt={item.title} src={item.previewImg}></img>{item.title}</button>
+                            <button key={index} id={index} onClick={this.setSingleItem}><img alt={item.title} src={item.previewImg}></img></button>
                         );
                     })}
                 </div>

@@ -40,9 +40,35 @@
 }
 
 .discography-clear-item {
-    left: 98%;
-    font-size: 15px;
+    left: 95%;
+    font-size: 1vmax;
     text-decoration: none;
     cursor: pointer;
     position: fixed;
+}
+
+@media screen and (max-width: 540px) {
+    .array-view-discography button {
+        padding: 0;
+        border: none;
+        transition-duration: 1s;
+        width: 50%;
+        text-align: center;
+        color: rgba(255, 255, 255, 0);
+        font-family: monospace;
+        font-size: 30px;
+        background: black;
+        border-style: none;
+        cursor: pointer;
+        outline: none;
+    }
+    
+    .array-view-discography button:hover {
+        padding: 0;
+        border: none;
+        width: 50%;
+        text-align: center;
+        color: white;
+        font-family: monospace;
+    }
 }

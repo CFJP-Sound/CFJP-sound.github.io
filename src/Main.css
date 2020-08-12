@@ -5,11 +5,12 @@
 }
 
 .banner {
-    margin: 5px;
-    float: right;
+    width: 300px;
+    margin-left: 15px;
 }
 
 .main {
     /* border: 1px solid green; */
     font-family: monospace;
+    width: 100%;
 }

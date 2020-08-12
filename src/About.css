@@ -5,7 +5,7 @@
 
 .about-content {
     width: 100%;
-    margin: 20px;
+    margin-top: 20px;
 }
 
 .about-img-container {
@@ -26,4 +26,5 @@
 
 .about-img-container img {
     width: 60%;
+    margin-left: 5vmax;
 }

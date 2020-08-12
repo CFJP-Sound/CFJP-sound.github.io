@@ -2,11 +2,5 @@
   background-color: black;
   color: white;
   font-family: monospace;
-}
-.app-header {
-  float: left;
-}
-
-.banner {
-  float: right;
+  width: 100%;
 }
