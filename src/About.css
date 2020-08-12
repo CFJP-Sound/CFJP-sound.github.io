@@ -28,3 +28,17 @@
     width: 60%;
     margin-left: 5vmax;
 }
+
+@media screen and (max-width: 540px) {
+    .about-img-container {
+        width: 50%;
+        float: right;
+        text-align: center;
+    }
+    
+    .about-p-container {
+        float: left;
+        width: 49%;
+    }
+    
+}
