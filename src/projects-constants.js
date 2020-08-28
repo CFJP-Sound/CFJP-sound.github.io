@@ -6,13 +6,13 @@ export const PROJECTS = [
         description: "Leo's Delusion is the name underwhich the duo realizes their passion for music production. Blending a variety of influences from hip-hop and electronic, it's the soundtrack of a video game yet to be.",
         works: [
             {
-                description: "The end comes to us all eventually",
+                description: "A cinematic, rough, and punchy glimpse into the post-apocalyptic.",
                 externalLocation: "https://www.youtube.com/embed/videoseries?list=PL1Lgz0XMNSE0eBvGx-cHKNDxZoe9InZ7V",
                 type: "video",
                 title: "2 0 X X"
             },
             {
-                description: "Let us take you on a journey of gritty bass and ethereal beats",
+                description: "The genesis of our collaboration, and no better place to dive in.",
                 externalLocation: "https://www.youtube.com/embed/videoseries?list=PL1Lgz0XMNSE3ZZAeXMTAd75JRIRQz7o5A",
                 type: "video",
                 title: "Chromaglyphs"
@@ -22,7 +22,7 @@ export const PROJECTS = [
     {
         name: "Rescored",
         previewImg: "imgs/RescoredLogoForSite.png",
-        description: "Re:Scored provides original scores and in-house editing to select movie scenes, painting the film's moment's in new colors.",
+        description: "Rescored provides original scores and in-house editing to select movie scenes, painting the film's moment's in new colors.",
         works: [
             {
                 description: "An eerie conspiracy looms...",

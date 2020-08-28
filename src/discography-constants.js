@@ -7,7 +7,7 @@ export const DISCOGRAPHY_ITEMS = [
     },
     {
         previewImg: "imgs/chromaglyphs.jpg",
-        description: "Let us take you on a journey of gritty bass and ethereal beats.",
+        description: "The genesis of our collaboration, and no better place to dive in.",
         externalLocation: "https://leosdelusion.bandcamp.com/album/chromaglyphs",
         title: "Chromaglyphs - Leo's Delusion"
     },
