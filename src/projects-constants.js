@@ -3,7 +3,7 @@ export const PROJECTS = [
     {
         name: "Leo's Delusion",
         previewImg: "imgs/LD.jpg",
-        description: "Leo's Delusion is the name underwhich the duo realizes their passion for music production. Blending a variety of influences from hip-hop and electronic, it's the soundtrack of a video game yet to be.",
+        description: "Leo's Delusion is the name under which the duo realizes their passion for music production. Blending a variety of influences from hip-hop and electronic, it's the soundtrack of a video game yet to be.",
         works: [
             {
                 description: "A cinematic, rough, and punchy glimpse into the post-apocalyptic.",
