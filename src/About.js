@@ -16,6 +16,9 @@ export class About extends React.Component {
                     </div>
                     <div className="about-p-container">
                         {aboutConstants.ABOUT_CONTENT.map((item) => { return (<><p>{item}</p></>); })}
+                        <p className="about-contact-paragraph">
+                            Contact: {aboutConstants.CONTACT_EMAIL}
+                        </p>
                     </div>
                 </div>
             </div>

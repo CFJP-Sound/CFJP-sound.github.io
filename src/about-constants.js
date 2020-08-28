@@ -6,6 +6,7 @@ export const ABOUT_CONTENT = [
 ];
 
 export const ABOUT_IMG = "imgs/TheBoysBW.jpg";
+export const CONTACT_EMAIL = "cfjpsoundscapes@gmail.com"
 
 
 

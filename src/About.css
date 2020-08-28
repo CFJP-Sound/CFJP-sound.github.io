@@ -24,6 +24,11 @@
     width: 110%;
 }
 
+.about-p-container a {
+    color: white;
+    font-style: none;
+}
+
 .about-img-container img {
     width: 60%;
     margin-left: 5vmax;
@@ -35,10 +40,8 @@
         float: right;
         text-align: center;
     }
-    
     .about-p-container {
         float: left;
         width: 49%;
     }
-    
 }
