@@ -46,14 +46,12 @@ export const PROJECTS = [
     }
 ];
 
-
-
 // Project  = {
-//     name: string 
+//     name: string
 //     items: array of json items
 //     description: string
 //     works: array of ProjectItems
-// }         
+// }
 
 // ProjectItem = {
 //     description: string
