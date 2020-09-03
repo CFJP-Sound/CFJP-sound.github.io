@@ -22,7 +22,7 @@ export const PROJECTS = [
     {
         name: "Rescored",
         previewImg: "imgs/RescoredLogoForSite.png",
-        description: "Rescored provides original scores and in-house editing to select movie scenes, painting the film's moment's in new colors.",
+        description: "Rescored provides original scores and in-house editing to select movie scenes, painting the films' moments in new colors.",
         works: [
             {
                 description: "An eerie conspiracy looms...",
